@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🤖 AI Agent-Powered Chatbot with Web Search, Wikipedia, and arXiv
 
 An interactive chatbot that can **search the web**, **query Wikipedia**, or **fetch research papers from arXiv**, depending on your question — all powered by **LangChain tools and agents**.
@@ -125,6 +123,4 @@ Final Answer: The Transformer is a deep learning architecture based entirely on 
 ## 📄 License
 
 This project is licensed under the MIT License.
-```
 
----
